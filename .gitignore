@@ -1,0 +1,7 @@
+# Depot PUBLIC : aucun secret ne doit jamais y entrer.
+client_secret*.json
+credentials*.json
+token*.json
+*.pickle
+.env
+.env.*
