@@ -17,5 +17,20 @@
     "status": "uploaded",
     "video_id": "7_ctFUxJIJ0",
     "uploaded_at": "2026-09-21T21:32:13+00:00"
+  },
+  {
+    "id": "DEMO-09-missing-five-minutes",
+    "file": "09-missing-five-minutes.mp4",
+    "title": "DEMO - Five Minutes Keep Disappearing",
+    "description": "Demo upload recorded for the YouTube API compliance audit.\n\n#shorts #minitwist",
+    "tags": [
+      "mini twist",
+      "shorts"
+    ],
+    "privacy": "private",
+    "publish_at": null,
+    "status": "uploaded",
+    "video_id": "g0dN2SDoTDE",
+    "uploaded_at": "2026-09-25T16:44:15+00:00"
   }
 ]
