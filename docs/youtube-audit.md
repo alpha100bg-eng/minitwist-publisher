@@ -20,6 +20,7 @@ Les champs entre `[...]` sont les seuls que tu dois compléter toi-même.
 | Privacy policy URL | `https://alpha100bg-eng.github.io/minitwist-publisher/privacy.html` |
 | Terms of service URL | `https://alpha100bg-eng.github.io/minitwist-publisher/terms.html` |
 | YouTube channel URL | `https://www.youtube.com/channel/UCzm7frzv5O8FZhtU12mI3Rw` |
+| Demo video (unlisted) | `https://www.youtube.com/watch?v=4ZGxmjQhDyo` |
 | Quota requested | `Default quota is sufficient — this is a compliance audit request, not a quota increase.` |
 
 ---
